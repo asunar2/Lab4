@@ -11,7 +11,7 @@ import java.util.Scanner;
  */
 public class Colosseum {
     /**
-     * The maximum number of hit points we will allow a Pokemon to start with.
+     * The maximum number of hit points we allow a Pokemon to start with.
      */
     static final int MAX_HIT_POINTS = 50;
 
